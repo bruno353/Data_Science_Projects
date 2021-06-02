@@ -1,4 +1,4 @@
-#Random Forest model that predict american house prices
+#Random Forest model that predict american house prices. melb_data.cvs used.
 import pandas as pd
 melbourne_data = pd.read_csv("melb_data.csv")
 melbourne_data.dropna(axis=0)
