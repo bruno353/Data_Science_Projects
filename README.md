@@ -3,9 +3,9 @@ Modelos de machine learning para predição e análise da ciência de dados.
 
 ## Projetos de Portfólio
 
-Análise de uma empresa de seguros/ Predição de compra do cliente: https://github.com/bruno353/Data_Science_Projects/blob/main/Projetos_Portfólio/Projeto_Portfólio_1.ipynb
+Análise de uma empresa de seguros/ Modelo para predição de compra do cliente: https://github.com/bruno353/Data_Science_Projects/blob/main/Projetos_Portfólio/Projeto_Portfólio_1.ipynb
 
-Análise de uma empresa de saúde/ Predição de doença vascular: https://github.com/bruno353/Data_Science_Projects/blob/main/Projetos_Portfólio/Projeto_Portfólio_2.ipynb
+Análise de uma empresa de saúde/ Modelo para predição de doença vascular: https://github.com/bruno353/Data_Science_Projects/blob/main/Projetos_Portfólio/Projeto_Portfólio_2.ipynb
 
 ## Projetos de estudo
 ### Deep Learning
