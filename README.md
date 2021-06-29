@@ -2,6 +2,8 @@
 Modelos de machine learning para predição e análise da ciência de dados.
 
 ## Projetos de Portfólio
+Análise de uma revendedora/ Modelo de regressão para predição do valor de carros:
+https://github.com/bruno353/Data_Science_Projects/blob/main/Projetos_Portfólio/Projeto_Portfólio_4.ipynb
 
 Análise de uma empresa de seguros/ Modelo para predição de compra do cliente: https://github.com/bruno353/Data_Science_Projects/blob/main/Projetos_Portfólio/Projeto_Portfólio_1.ipynb
 
