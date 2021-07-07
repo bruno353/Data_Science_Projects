@@ -30,6 +30,9 @@ Predição da probabilidade de uma pessoa ter um AVC: https://github.com/bruno35
 Predição para a qualidade de água: https://github.com/bruno353/Data_Science_Projects/blob/main/Machine_Learning/LogisticRegression/Water_Quality_model.ipynb
 
 Predição probabilidade da pessoa ter um ataque cardíaco: https://github.com/bruno353/Data_Science_Projects/blob/main/Machine_Learning/LogisticRegression/fork-of-heart-failure-prediction.ipynb
+
+### SVD:
+Sistema de recomendação de livros: https://github.com/bruno353/Data_Science_Projects/blob/main/Machine_Learning/SVD/Recommendation_System.ipynb
 ### Linear Regression:
 Predição da eficiência de uma publicidade: https://github.com/bruno353/Data_Science_Projects/blob/main/Machine_Learning/Linear_Regression/1_model.py
 ### Random Forest:
