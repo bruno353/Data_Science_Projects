@@ -12,6 +12,9 @@ Análise de uma empresa de saúde/ Modelo para diagnóstico precoce de doença c
 Análise de uma empresa Telefônica/ Modelo para evitar Churn:
 https://github.com/bruno353/Data_Science_Projects/blob/main/Projetos_Portfólio/Projeto_Portfólio_3.ipynb
 
+Análise livros - Goodreads:
+https://github.com/bruno353/Data_Science_Projects/blob/main/Projetos_Portfólio/Projeto_Portfólio_5.ipynb
+
 ## Projetos de estudo
 ### Deep Learning
 Predição de imagens com ANN: https://github.com/bruno353/Data_Science_Projects/blob/main/Machine_Learning/DeepLearning/Images_Predict_ANN.ipynb
