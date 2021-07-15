@@ -1,21 +1,21 @@
-# Data Science projetos
+# Data Science projects
 Modelos de machine learning para predição e análise da ciência de dados.
 
-## Projetos de Portfólio
-Análise de uma revendedora/ Modelo de regressão para predição do valor de carros:
+## Portfolio projects
+Análise de uma revendedora/ Modelo de regressão para predição do valor de carros/ Car prediction:
 https://github.com/bruno353/Data_Science_Projects/blob/main/Projetos_Portfólio/Projeto_Portfólio_4.ipynb
 
 Análise de uma empresa de seguros/ Modelo para predição de compra do cliente: https://github.com/bruno353/Data_Science_Projects/blob/main/Projetos_Portfólio/Projeto_Portfólio_1.ipynb
 
-Análise de uma empresa de saúde/ Modelo para diagnóstico precoce de doença cardiovascular: https://github.com/bruno353/Data_Science_Projects/blob/main/Projetos_Portfólio/Projeto_Portfólio_2.ipynb
+Análise de uma empresa de saúde/ Modelo para diagnóstico precoce de doença cardiovascular/ Heart disease prediction: https://github.com/bruno353/Data_Science_Projects/blob/main/Projetos_Portfólio/Projeto_Portfólio_2.ipynb
 
-Análise de uma empresa Telefônica/ Modelo para evitar Churn:
+Análise de uma empresa Telefônica/ Modelo para evitar Churn/ Churn prediction:
 https://github.com/bruno353/Data_Science_Projects/blob/main/Projetos_Portfólio/Projeto_Portfólio_3.ipynb
 
-Análise livros - Goodreads:
+Análise livros - Goodreads/ Books analysis:
 https://github.com/bruno353/Data_Science_Projects/blob/main/Projetos_Portfólio/Projeto_Portfólio_5.ipynb
 
-## Projetos de estudo
+## Study Projects
 ### Deep Learning
 Predição de imagens com ANN: https://github.com/bruno353/Data_Science_Projects/blob/main/Machine_Learning/DeepLearning/Images_Predict_ANN.ipynb
 
